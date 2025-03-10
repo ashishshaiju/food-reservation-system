@@ -32,7 +32,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/food-reservation-system.git
+git clone https://github.com/ashishshaiju/food-reservation-system.git
 cd food-reservation-system
 ```
 
@@ -110,10 +110,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-For support, email your-email@example.com or open an issue in this repository.
+For support, contact me through any of my [social media platforms](https://github.com/ashishshaiju) or open an issue in this repository.
 
 ## Deployment
 
 The easiest way to deploy this app is using [Vercel](https://vercel.com):
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyourusername%2Ffood-reservation-system) 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fashishshaiju%2Ffood-reservation-system) 
